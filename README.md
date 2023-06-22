@@ -1,6 +1,10 @@
 ### Hi th,sou  o Alison
 
 - 🌱 I’m currently learning  Python
+- Django
+- GIt
+- Orientação ao objeto
+- MySql
 
 <div style="display: inline_block"><br>
   
